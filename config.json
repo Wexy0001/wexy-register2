@@ -1,0 +1,52 @@
+{
+    "bot": {
+        "botyapimci": "977287004503048202",
+        "owner": "977287004503048202",
+        "prefix": ".",
+        "BotStatus": "ATIALITY Developed By Wexy",
+        "BotFooter": "ATIALITY Developed By Wexy",
+        "guildVanityURL":"https://discord.gg/phandora",
+        "token" : "",
+        "cooldown": 3000
+    },
+    "channels": {
+        "chat": "996890282580779008",
+        "voicechannel": "996890274271854702",
+        "botkomut": "996890283348328560",
+        "welcomechannel": "996890261240168469",
+        "rules": "996890269544878110"
+    },
+     "logs": {
+        "kayıtlog": "996890315006951594",
+        "komutlog": "996890317280247970"
+    },
+    "registration": {
+        "unregistered": "996890277618921592",
+        "man": ["996890276553564260", "996890277023330324"],
+        "woman": ["996890275341406339", "996890275597254778"],
+        "staff": "996890269427437568",
+        "GuilDTag": "†",
+        "TagSymbol": "•",
+        "autonickname": "† İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "996890280995340358",
+        "susoeciosnickname": "† Şüpheli",
+        "susoecioschannel": "996890258480308377",
+        "oneman": "996890276553564260",
+        "onewoman": "996890275341406339",
+        "minage": 15, 
+        "purchase": false  
+    },
+    "Guild": {
+        "GuildID": "987803539160064050",
+        "GuilDName": "† A T I A L I T Y",
+        "GuildOwnerRole": ["996462861255716884","996890250607595590"]
+    },
+    "emojis": {
+        "tada": "<a:atalty_hac:996462021488955392> ",
+        "yes": "<a:ex_hrkt40:988507780275134535>",
+        "no": "<a:ex_hrkt38:988507782384861237>"
+
+   
+    }
+}
